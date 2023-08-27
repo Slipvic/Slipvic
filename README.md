@@ -2,7 +2,7 @@
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas e me desenvolvendo pela área.
 - 🌱 Foco em analise dados mas programando em fullstack.
-- 📫 Entre em contato comigo através de slipvic667@gmail.com
+- 📫 Entre em contato comigo através de SlipvicCoding@gmail.com
 
 ##
 
